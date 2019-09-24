@@ -112,18 +112,10 @@
       "type": "string",
       "defaultValue": "West Europe",
       "allowedValues": [
-        "Central India",
-        "East Asia",
-        "East US",
-        "East US 2",
-        "Japan East",
-        "Japan West",
-        "North Central US",
-        "North Europe",
-        "South Central US",
-        "Southeast Asia",
-        "West Europe",
-        "West US"
+        "China North 2",
+        "China North",
+        "China East 2",
+        "China East"
       ],
       "metadata": {
         "description": "The PostgreSQL server location to use."
